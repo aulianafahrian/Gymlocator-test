@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://127.0.0.1:8000/')
+
+WebUI.click(findTestObject('Object Repository/Detail Gym/Page_Gym Locator Bandung/a_Find Gym'))
+
+WebUI.scrollToElement(findTestObject('search gym/Page_Gym Locator Bandung/a_Find Gym'), 5)
+
+WebUI.click(findTestObject('Object Repository/Detail Gym/Page_Gym Locator Bandung/a_Detail'))
+
+WebUI.delay(10)
+
+WebUI.closeBrowser()
+
