@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menampilkan peta dan marker didalam peta</description>
+   <name>Marker and map</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab50672d-e6a7-412a-8949-d1c2bb8b7a57</testCaseGuid>
+</TestCaseEntity>
