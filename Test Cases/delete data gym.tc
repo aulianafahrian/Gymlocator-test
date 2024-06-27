@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>delete data gym</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2a0f7ebe-c061-4d9c-b345-27ee2ac56360</testCaseGuid>
+</TestCaseEntity>

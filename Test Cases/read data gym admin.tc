@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing read data admin</description>
+   <name>read data gym admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ab1e64a-9db4-4199-a748-4366ce3ac26a</testCaseGuid>
+</TestCaseEntity>

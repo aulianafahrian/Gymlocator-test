@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing login admin valid</description>
+   <name>login valid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c128f6f-9bde-4107-b203-8f893ed1e45b</testCaseGuid>
+</TestCaseEntity>

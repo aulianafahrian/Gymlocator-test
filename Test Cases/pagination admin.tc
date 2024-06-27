@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Data Gym</name>
+   <name>pagination admin</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b93554ec-aa42-4952-bcd8-2a05f3482b9a</testCaseGuid>
+   <testCaseGuid>4854d3f9-06e3-48e9-9a00-611577aeb8dc</testCaseGuid>
 </TestCaseEntity>

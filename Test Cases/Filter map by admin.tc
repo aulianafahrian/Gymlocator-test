@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing filter map by admin</description>
+   <name>Filter map by admin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad86c45d-c9b5-4ab7-a1f4-5d68c9918d86</testCaseGuid>
+</TestCaseEntity>

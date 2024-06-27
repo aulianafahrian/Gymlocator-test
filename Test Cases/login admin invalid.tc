@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing login admin invalid</description>
+   <name>login admin invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da6c1581-52e7-4c1b-8cfe-b314564edf50</testCaseGuid>
+</TestCaseEntity>

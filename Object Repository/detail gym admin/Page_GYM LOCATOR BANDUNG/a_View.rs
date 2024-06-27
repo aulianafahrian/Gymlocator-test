@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View</name>
+   <tag></tag>
+   <elementGuidId>27ca36d3-d838-47c7-9f8e-72645b9bbc07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'View')])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td.align-middle > div.d-flex.align-items-center > a.btn.btn-outline-info.mr-2.px-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f81f1b3d-c3bf-42f3-9245-5dabd160c971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://127.0.0.1:8000/gymLocators/25</value>
+      <webElementGuid>66c8ba9d-c44a-41ce-a17d-e9b4915fe80c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-info mr-2 px-2</value>
+      <webElementGuid>9372feee-154d-4682-9ca6-69158c8479be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                View
+                            </value>
+      <webElementGuid>f766d8c0-6e11-4a58-a27b-2fe43257928f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sidebar-mini&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card border shadow-xs mb-4&quot;]/div[@class=&quot;card-body px-0 py-0&quot;]/div[@class=&quot;table-responsive p-0&quot;]/table[@class=&quot;table align-items-center mb-0&quot;]/tbody[1]/tr[5]/td[@class=&quot;align-middle&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/a[@class=&quot;btn btn-outline-info mr-2 px-2&quot;]</value>
+      <webElementGuid>8c54e074-1067-41ec-9dfc-46f5d8e6409e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View')])[5]</value>
+      <webElementGuid>180fd71e-7878-4af1-a1f2-ac28cd7ee3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[4]/following::a[1]</value>
+      <webElementGuid>27f72631-66ea-4b6e-aaf6-7702e2c14868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[4]/following::a[1]</value>
+      <webElementGuid>65623ce0-6f48-4be4-beb5-7548a588f4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[5]/preceding::a[1]</value>
+      <webElementGuid>604bb786-529c-494d-be12-a3aceb28bd73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[5]/preceding::a[2]</value>
+      <webElementGuid>4b7f448b-9d0e-4665-8b1c-eca9dfc020f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://127.0.0.1:8000/gymLocators/25']</value>
+      <webElementGuid>864091bb-f191-4b53-88c0-d006f3718c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[5]/div/a</value>
+      <webElementGuid>1f59479a-79d1-436a-ae8f-d231fcf49902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://127.0.0.1:8000/gymLocators/25' and (text() = '
+                                View
+                            ' or . = '
+                                View
+                            ')]</value>
+      <webElementGuid>2ef5ce27-484a-4f26-9dfc-3f6ef5cff5bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

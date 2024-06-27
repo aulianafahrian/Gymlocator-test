@@ -19,17 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://127.0.0.1:8000/')
+WebUI.navigateToUrl('http://127.0.0.1:8000/login')
 
-WebUI.delay(5)
+WebUI.setText(findTestObject('Object Repository/pagination admin/Page_Gym Locator/input_Sign in to start your session_email'), 
+    'auliana@mail.com')
 
-WebUI.click(findTestObject('Object Repository/Data Gym/Page_Gym Locator Bandung/a_Find Gym'))
+WebUI.setEncryptedText(findTestObject('Object Repository/pagination admin/Page_Gym Locator/input_Sign in to start your session_password'), 
+    'dKb2SyvW5nh6MPtSWvU9Aw==')
 
-WebUI.delay(5)
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_Gym Locator/span_Sign In_fas fa-sign-in-alt'))
 
-WebUI.click(findTestObject('Object Repository/Data Gym/Page_Gym Locator Bandung/img'))
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_GYM LOCATOR BANDUNG/a_Data Gym'))
 
-WebUI.delay(10)
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_GYM LOCATOR BANDUNG/a_Next'))
+
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_GYM LOCATOR BANDUNG/a_Next_1'))
+
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_GYM LOCATOR BANDUNG/a_Previous'))
+
+WebUI.click(findTestObject('Object Repository/pagination admin/Page_GYM LOCATOR BANDUNG/a_Previous_1'))
 
 WebUI.closeBrowser()
 
